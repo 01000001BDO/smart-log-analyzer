@@ -1,4 +1,5 @@
 # 🔍 Log Analyzer
+> ⚠️ Note: Backend requires self-hosting (not provided due to hosting costs)
 
 👀 Real-time log analysis with AI insights & visualizations tool built with Next.js + Rust 
 
