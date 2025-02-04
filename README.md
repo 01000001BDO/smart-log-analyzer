@@ -1,6 +1,6 @@
 # 🔍 Log Analyzer
 
-Real-time log analysis with AI insights & visualizations 📊
+👀 Real-time log analysis with AI insights & visualizations tool built with Next.js + Rust 
 
 ## 🚀 Quick Start
 
