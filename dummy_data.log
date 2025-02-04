@@ -1,0 +1,220 @@
+[2025-02-02 18:38:17] ERROR: User logged out
+[2025-02-03 05:31:48] DEBUG: Service started successfully
+[2025-02-03 06:41:26] DEBUG: Unexpected error occurred on server 61.64.58.244
+[2025-02-02 20:20:58] INFO: Memory usage exceeded threshold
+[2025-02-02 23:56:48] DEBUG: User logged out
+[2025-02-03 13:26:45] CRITICAL: Permission denied on server 190.91.245.154
+[2025-02-02 21:45:46] WARNING: Memory usage exceeded threshold
+[2025-02-03 02:54:22] ERROR: Memory usage exceeded threshold
+[2025-02-03 15:18:54] DEBUG: Failed login attempt for user_id 50 from IP 230.27.145.116
+[2025-02-02 18:16:02] INFO: User accessed /dashboard from IP 11.105.113.49
+[2025-02-03 17:12:55] DEBUG: Processing request ID 5023
+[2025-02-03 16:46:27] DEBUG: Memory usage exceeded threshold
+[2025-02-02 20:40:02] INFO: Memory usage exceeded threshold
+[2025-02-02 21:56:32] INFO: Database connection established
+[2025-02-03 15:15:52] ERROR: Failed login attempt for user_id 86 from IP 77.228.127.163
+[2025-02-03 11:57:54] ERROR: File not found
+[2025-02-03 06:43:57] CRITICAL: Permission denied on server 35.57.40.215
+[2025-02-03 13:11:12] INFO: Database connection established
+[2025-02-03 15:32:44] WARNING: File not found
+[2025-02-03 03:54:11] INFO: Memory usage exceeded threshold
+[2025-02-03 00:26:19] DEBUG: User accessed /dashboard from IP 232.49.194.99
+[2025-02-03 14:51:33] CRITICAL: Unexpected error occurred on server 137.118.124.135
+[2025-02-02 23:20:13] ERROR: User accessed /dashboard from IP 178.191.118.120
+[2025-02-03 06:13:53] ERROR: Service started successfully
+[2025-02-03 16:26:33] DEBUG: User accessed /dashboard from IP 59.229.124.14
+[2025-02-03 09:40:11] INFO: Memory usage exceeded threshold
+[2025-02-02 19:32:37] DEBUG: Service started successfully
+[2025-02-03 03:58:43] ERROR: Service started successfully
+[2025-02-03 03:18:40] INFO: Database connection established
+[2025-02-03 05:06:47] WARNING: Unexpected error occurred on server 251.217.203.229
+[2025-02-03 05:53:02] DEBUG: File not found
+[2025-02-03 01:13:55] WARNING: Memory usage exceeded threshold
+[2025-02-03 14:11:10] WARNING: Processing request ID 7079
+[2025-02-03 15:53:21] CRITICAL: Database connection established
+[2025-02-03 05:22:02] ERROR: Service started successfully
+[2025-02-03 03:12:31] DEBUG: Unexpected error occurred on server 74.46.111.179
+[2025-02-03 10:33:22] CRITICAL: Failed login attempt for user_id 23 from IP 39.195.39.99
+[2025-02-03 16:22:23] WARNING: Unexpected error occurred on server 72.59.177.211
+[2025-02-03 03:28:01] DEBUG: Database connection established
+[2025-02-03 04:51:52] INFO: Processing request ID 2344
+[2025-02-02 21:50:13] ERROR: Permission denied on server 229.66.13.206
+[2025-02-03 15:59:19] DEBUG: Database connection established
+[2025-02-02 19:30:03] ERROR: Unexpected error occurred on server 70.25.84.163
+[2025-02-02 19:13:25] WARNING: Failed login attempt for user_id 2 from IP 148.197.185.6
+[2025-02-03 13:51:10] ERROR: User accessed /dashboard from IP 74.27.243.153
+[2025-02-03 00:00:16] CRITICAL: Memory usage exceeded threshold
+[2025-02-03 15:19:23] WARNING: Service started successfully
+[2025-02-03 12:52:35] INFO: Processing request ID 6559
+[2025-02-02 18:27:59] CRITICAL: File not found
+[2025-02-03 14:38:40] ERROR: File not found
+[2025-02-03 14:32:21] ERROR: User accessed /dashboard from IP 163.248.147.65
+[2025-02-03 08:50:47] WARNING: Processing request ID 6199
+[2025-02-03 12:16:35] CRITICAL: Permission denied on server 82.64.163.164
+[2025-02-02 21:51:21] DEBUG: File not found
+[2025-02-03 10:08:02] CRITICAL: Processing request ID 9459
+[2025-02-03 17:09:54] ERROR: File not found
+[2025-02-03 14:12:08] WARNING: File not found
+[2025-02-03 05:22:13] WARNING: Memory usage exceeded threshold
+[2025-02-03 06:26:57] CRITICAL: Memory usage exceeded threshold
+[2025-02-03 11:46:34] ERROR: Failed login attempt for user_id 69 from IP 75.224.39.201
+[2025-02-02 21:42:50] DEBUG: Processing request ID 8468
+[2025-02-03 07:52:08] CRITICAL: Unexpected error occurred on server 5.96.15.183
+[2025-02-02 22:33:06] CRITICAL: Memory usage exceeded threshold
+[2025-02-02 20:09:20] DEBUG: Memory usage exceeded threshold
+[2025-02-02 21:57:04] CRITICAL: Failed login attempt for user_id 40 from IP 14.161.78.48
+[2025-02-02 20:33:46] CRITICAL: Processing request ID 8336
+[2025-02-03 01:06:23] ERROR: Permission denied on server 131.192.3.92
+[2025-02-02 18:51:22] INFO: User accessed /dashboard from IP 100.156.222.6
+[2025-02-03 10:03:18] ERROR: Processing request ID 3618
+[2025-02-03 13:48:52] WARNING: Unexpected error occurred on server 212.78.225.125
+[2025-02-03 09:24:59] INFO: User accessed /dashboard from IP 140.37.63.87
+[2025-02-03 13:31:42] ERROR: User accessed /dashboard from IP 55.92.33.34
+[2025-02-02 22:17:27] DEBUG: Database connection established
+[2025-02-03 05:05:58] INFO: Unexpected error occurred on server 200.91.152.165
+[2025-02-02 23:21:08] CRITICAL: File not found
+[2025-02-03 03:11:44] ERROR: Permission denied on server 152.192.88.116
+[2025-02-03 13:21:03] CRITICAL: User accessed /dashboard from IP 42.252.72.214
+[2025-02-02 19:12:55] DEBUG: Memory usage exceeded threshold
+[2025-02-03 06:53:25] INFO: Memory usage exceeded threshold
+[2025-02-03 01:44:08] INFO: User accessed /dashboard from IP 54.94.225.244
+[2025-02-02 23:53:14] DEBUG: User logged out
+[2025-02-02 23:02:21] INFO: Processing request ID 8835
+[2025-02-03 15:05:41] INFO: User logged out
+[2025-02-03 08:27:09] DEBUG: Unexpected error occurred on server 178.211.136.201
+[2025-02-02 22:41:11] DEBUG: User logged out
+[2025-02-03 11:42:34] WARNING: Service started successfully
+[2025-02-02 22:21:45] DEBUG: Processing request ID 7912
+[2025-02-03 10:31:40] WARNING: Unexpected error occurred on server 85.120.3.223
+[2025-02-03 10:25:46] ERROR: Memory usage exceeded threshold
+[2025-02-03 08:04:04] CRITICAL: Memory usage exceeded threshold
+[2025-02-03 05:57:49] CRITICAL: Permission denied on server 61.233.49.8
+[2025-02-02 20:57:13] ERROR: Database connection established
+[2025-02-03 09:02:34] INFO: Failed login attempt for user_id 21 from IP 236.115.74.152
+[2025-02-03 08:39:45] WARNING: File not found
+[2025-02-02 20:34:21] DEBUG: User accessed /dashboard from IP 182.115.144.52
+[2025-02-03 15:06:19] DEBUG: Permission denied on server 36.245.212.217
+[2025-02-03 15:50:44] ERROR: Failed login attempt for user_id 39 from IP 57.166.161.111
+[2025-02-02 18:19:36] DEBUG: User accessed /dashboard from IP 13.16.87.38
+[2025-02-03 08:58:49] WARNING: User logged out
+[2025-02-03 15:17:33] INFO: Memory usage exceeded threshold
+[2025-02-03 00:59:33] INFO: File not found
+[2025-02-03 04:58:21] ERROR: Permission denied on server 157.94.130.103
+[2025-02-03 07:01:04] ERROR: Memory usage exceeded threshold
+[2025-02-03 17:02:53] DEBUG: Memory usage exceeded threshold
+[2025-02-03 06:19:56] CRITICAL: Permission denied on server 167.252.211.41
+[2025-02-02 19:51:56] WARNING: User logged out
+[2025-02-03 04:01:23] ERROR: Database connection established
+[2025-02-03 16:55:26] ERROR: User logged out
+[2025-02-03 00:04:12] WARNING: Database connection established
+[2025-02-03 10:38:10] INFO: Failed login attempt for user_id 6 from IP 140.137.128.245
+[2025-02-02 22:07:44] INFO: Processing request ID 5820
+[2025-02-02 22:17:12] INFO: Permission denied on server 118.237.157.125
+[2025-02-02 20:12:20] WARNING: File not found
+[2025-02-03 16:26:17] DEBUG: Permission denied on server 110.218.237.17
+[2025-02-03 06:09:01] DEBUG: Service started successfully
+[2025-02-02 20:36:46] INFO: Memory usage exceeded threshold
+[2025-02-02 21:09:59] CRITICAL: User accessed /dashboard from IP 212.141.89.93
+[2025-02-03 11:20:25] WARNING: Failed login attempt for user_id 94 from IP 18.147.155.150
+[2025-02-03 08:43:09] WARNING: Failed login attempt for user_id 20 from IP 99.189.143.79
+[2025-02-02 18:53:27] CRITICAL: User logged out
+[2025-02-03 07:41:10] WARNING: File not found
+[2025-02-03 13:08:20] INFO: File not found
+[2025-02-03 04:04:59] CRITICAL: Permission denied on server 250.50.255.231
+[2025-02-03 01:28:20] DEBUG: User logged out
+[2025-02-02 23:39:33] INFO: Processing request ID 9446
+[2025-02-03 11:20:32] DEBUG: User accessed /dashboard from IP 133.50.152.0
+[2025-02-03 16:00:14] INFO: Database connection established
+[2025-02-03 06:15:32] CRITICAL: Processing request ID 4819
+[2025-02-03 07:38:00] WARNING: File not found
+[2025-02-02 18:42:57] ERROR: User accessed /dashboard from IP 62.67.79.227
+[2025-02-03 06:28:19] ERROR: User accessed /dashboard from IP 175.131.155.33
+[2025-02-02 21:45:23] ERROR: Permission denied on server 8.87.169.163
+[2025-02-03 05:30:15] ERROR: Memory usage exceeded threshold
+[2025-02-03 17:53:28] WARNING: Processing request ID 7747
+[2025-02-03 15:45:15] CRITICAL: User logged out
+[2025-02-02 21:16:29] WARNING: Processing request ID 8628
+[2025-02-02 23:55:18] ERROR: Database connection established
+[2025-02-03 12:59:55] ERROR: Unexpected error occurred on server 57.39.77.87
+[2025-02-03 00:14:36] ERROR: Permission denied on server 191.11.111.79
+[2025-02-03 12:58:06] DEBUG: Failed login attempt for user_id 50 from IP 110.30.42.117
+[2025-02-03 07:13:26] ERROR: Processing request ID 7449
+[2025-02-03 06:41:15] WARNING: Service started successfully
+[2025-02-02 23:05:05] DEBUG: Memory usage exceeded threshold
+[2025-02-03 04:35:24] DEBUG: Processing request ID 4519
+[2025-02-03 10:42:32] DEBUG: Failed login attempt for user_id 11 from IP 210.75.221.226
+[2025-02-02 18:07:25] ERROR: Unexpected error occurred on server 48.157.79.91
+[2025-02-03 08:02:30] CRITICAL: User logged out
+[2025-02-02 19:31:59] WARNING: Permission denied on server 79.68.214.82
+[2025-02-03 03:11:21] WARNING: Database connection established
+[2025-02-03 14:00:33] ERROR: User accessed /dashboard from IP 105.130.19.253
+[2025-02-02 18:25:41] WARNING: Failed login attempt for user_id 30 from IP 44.79.92.195
+[2025-02-03 02:32:01] WARNING: Permission denied on server 238.14.226.229
+[2025-02-02 22:06:28] INFO: File not found
+[2025-02-03 12:27:52] WARNING: User logged out
+[2025-02-03 16:38:12] ERROR: Processing request ID 6730
+[2025-02-02 21:33:20] ERROR: Service started successfully
+[2025-02-02 23:04:57] ERROR: User accessed /dashboard from IP 217.68.1.118
+[2025-02-02 19:08:05] CRITICAL: Failed login attempt for user_id 88 from IP 33.20.65.2
+[2025-02-03 08:54:14] DEBUG: Database connection established
+[2025-02-03 10:13:33] INFO: Service started successfully
+[2025-02-03 03:40:54] CRITICAL: Database connection established
+[2025-02-03 10:21:24] INFO: Processing request ID 5298
+[2025-02-02 22:50:06] ERROR: Permission denied on server 21.216.220.68
+[2025-02-03 12:15:13] CRITICAL: Processing request ID 2883
+[2025-02-03 09:37:30] WARNING: Processing request ID 6355
+[2025-02-02 18:40:39] DEBUG: File not found
+[2025-02-03 11:27:15] WARNING: Service started successfully
+[2025-02-03 05:47:14] WARNING: Failed login attempt for user_id 58 from IP 5.135.182.32
+[2025-02-03 13:04:20] CRITICAL: Service started successfully
+[2025-02-03 05:16:16] INFO: Database connection established
+[2025-02-02 19:23:10] ERROR: User logged out
+[2025-02-03 12:07:45] ERROR: Permission denied on server 235.153.187.104
+[2025-02-02 18:30:39] ERROR: User accessed /dashboard from IP 5.83.39.76
+[2025-02-02 22:11:27] ERROR: Database connection established
+[2025-02-03 02:31:59] ERROR: Failed login attempt for user_id 69 from IP 21.207.111.18
+[2025-02-03 13:56:04] ERROR: User accessed /dashboard from IP 233.50.126.139
+[2025-02-03 17:44:36] ERROR: Failed login attempt for user_id 62 from IP 4.203.146.91
+[2025-02-03 04:51:43] WARNING: Database connection established
+[2025-02-03 05:24:08] DEBUG: Permission denied on server 233.128.109.72
+[2025-02-02 18:52:18] INFO: User accessed /dashboard from IP 34.103.128.253
+[2025-02-03 05:14:28] ERROR: User logged out
+[2025-02-02 22:35:59] INFO: Processing request ID 9532
+[2025-02-03 08:02:14] WARNING: File not found
+[2025-02-03 14:49:35] WARNING: Failed login attempt for user_id 42 from IP 168.178.91.197
+[2025-02-03 13:17:41] CRITICAL: Unexpected error occurred on server 117.254.180.58
+[2025-02-02 22:05:52] CRITICAL: Processing request ID 1890
+[2025-02-03 10:00:31] WARNING: File not found
+[2025-02-03 03:11:42] DEBUG: User accessed /dashboard from IP 142.237.175.111
+[2025-02-03 01:24:59] DEBUG: Memory usage exceeded threshold
+[2025-02-02 20:16:08] INFO: Permission denied on server 95.20.42.23
+[2025-02-02 23:36:37] CRITICAL: Memory usage exceeded threshold
+[2025-02-03 03:33:02] ERROR: Failed login attempt for user_id 80 from IP 209.222.11.51
+[2025-02-03 04:34:08] ERROR: Unexpected error occurred on server 189.108.147.203
+[2025-02-02 18:44:58] WARNING: Processing request ID 9688
+[2025-02-03 06:14:06] CRITICAL: Unexpected error occurred on server 251.181.162.165
+[2025-02-03 09:58:16] WARNING: User logged out
+[2025-02-03 00:46:44] INFO: User logged out
+[2025-02-03 03:31:31] CRITICAL: User accessed /dashboard from IP 8.207.101.27
+[2025-02-03 01:51:32] DEBUG: Unexpected error occurred on server 42.158.150.144
+[2025-02-03 02:15:15] WARNING: Service started successfully
+[2025-02-03 16:12:11] INFO: Unexpected error occurred on server 134.110.178.227
+[2025-02-03 07:34:42] CRITICAL: Service started successfully
+[2025-02-03 02:25:50] INFO: Failed login attempt for user_id 46 from IP 51.209.103.182
+[2025-02-02 20:48:09] INFO: File not found
+[2025-02-02 23:42:19] WARNING: Database connection established
+[2025-02-03 04:39:42] CRITICAL: Unexpected error occurred on server 221.255.135.104
+[2025-02-02 20:43:39] ERROR: Unexpected error occurred on server 91.227.94.224
+[2025-02-03 05:24:58] DEBUG: Memory usage exceeded threshold
+[2025-02-03 16:39:26] DEBUG: Unexpected error occurred on server 74.28.19.238
+[2025-02-02 22:07:34] WARNING: File not found
+[2025-02-02 23:49:43] CRITICAL: Permission denied on server 205.198.82.26
+[2025-02-03 04:56:10] CRITICAL: Permission denied on server 170.80.16.143
+[2025-02-03 17:12:54] CRITICAL: Memory usage exceeded threshold
+[2025-02-03 08:22:03] WARNING: File not found
+[2025-02-03 16:04:39] CRITICAL: User logged out
+[2025-02-03 07:20:19] ERROR: User accessed /dashboard from IP 61.215.7.233
+[2025-02-03 15:28:28] CRITICAL: File not found
+[2025-02-02 20:08:33] WARNING: Failed login attempt for user_id 84 from IP 95.178.189.255
+[2025-02-03 10:51:16] ERROR: Failed login attempt for user_id 37 from IP 217.141.200.173
+[2025-02-03 12:30:20] ERROR: Memory usage exceeded threshold

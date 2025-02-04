@@ -2,8 +2,9 @@ export interface LogEntry {
     timestamp: string;
     level: 'INFO' | 'WARN' | 'ERROR' | 'DEBUG';
     message: string;
-    metadata?: Record<string, unknown> | null;
-}
+    metadata: null; 
+  }
+  
   
 export interface LogAnalysis {
     total_entries: number;
